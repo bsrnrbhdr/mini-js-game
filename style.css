@@ -9,7 +9,7 @@ body {
   background-color: rgb(21, 42, 66);
 }
 #context {
-  padding: auto;
+  padding: 10px;
   color: aliceblue;
   font-size: medium;
 }
