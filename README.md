@@ -1,4 +1,4 @@
-# bsrnrbhdr.github.io
+# mini-js-game
 
 Many thanks to artists who let us to use their works. links of the assets I used : <br>
 https://trixelized.itch.io/starstring-fields <br>
