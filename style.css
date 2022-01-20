@@ -8,7 +8,9 @@ body {
   height: 100%;
   background-color: rgb(21, 42, 66);
 }
-div {
+#context {
+  margin: 2%;
+  padding: auto;
   color: aliceblue;
   font-size: medium;
 }
