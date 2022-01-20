@@ -1,16 +1,16 @@
 // --------------PLAYER SPRITES--------------------------------------
 const playerSpriteIdle = new Image();
-playerSpriteIdle.src = "assets/Blue_witch/B_witch_idle.png";
+playerSpriteIdle.src = "/mini-js-game/assets/Blue_witch/B_witch_idle.png";
 const playerSpriteRunRight = new Image();
-playerSpriteRunRight.src = "assets/Blue_witch/B_witch_run_right.png";
+playerSpriteRunRight.src = "/mini-js-game/assets/Blue_witch/B_witch_run_right.png";
 const playerSpriteRunLeft = new Image();
-playerSpriteRunLeft.src = "assets/Blue_witch/B_witch_run_left.png";
+playerSpriteRunLeft.src = "/mini-js-game/assets/Blue_witch/B_witch_run_left.png";
 const playerSpriteAttack = new Image();
-playerSpriteAttack.src = "assets/Blue_witch/B_witch_attack.png";
+playerSpriteAttack.src = "/mini-js-game/assets/Blue_witch/B_witch_attack.png";
 const playerSpriteDead = new Image();
-playerSpriteDead.src = "assets/Blue_witch/B_witch_death.png";
+playerSpriteDead.src = "/mini-js-game/assets/Blue_witch/B_witch_death.png";
 const playerSpriteRespawn = new Image();
-playerSpriteRespawn.src = "assets/Blue_witch/B_witch_charge.png";
+playerSpriteRespawn.src = "/mini-js-game/assets/Blue_witch/B_witch_charge.png";
 //--------------------------------------------------------------------
 const canvas = document.getElementById("canvas1");
 //--------------------------------------------------------------------

@@ -19,7 +19,7 @@ export default class gameCanvas {
       (this.canvas.width = 800),
       (this.canvas.heigth = 500);
     (this.background = new Image()),
-      (this.background.src = "assets/background.png");
+      (this.background.src = "/mini-js-game/assets/background.png");
   }
   //--------------------------------------------------------------------
   createCoins() {

@@ -1,8 +1,8 @@
-import * as gameFunctions from "./gamefunctions.js";
+import * as gameFunctions from "gamefunctions.js";
 const nightmare = new Image();
-nightmare.src = "assets/Nightmare-Files/PNG/nightmare-galloping.png";
+nightmare.src = "/mini-js-game/assets/Nightmare-Files/PNG/nightmare-galloping.png";
 const nightmare_dead = new Image();
-nightmare_dead.src = "assets/explosions-pack-web/spritesheets/explosion-4.png";
+nightmare_dead.src = "/mini-js-game/assets/explosions-pack-web/spritesheets/explosion-4.png";
 const canvas = document.getElementById("canvas1");
 
 export default class Nightmare {

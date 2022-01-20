@@ -1,13 +1,13 @@
 import * as gameFunctions from "gamefunctions.js";
 
 const coin_blue = new Image();
-coin_blue.src = "assets/spr_coin_azu.png";
+coin_blue.src = "/mini-js-game/assets/spr_coin_azu.png";
 const coin_red = new Image();
-coin_red.src = "assets/spr_coin_roj.png";
+coin_red.src = "/mini-js-game/assets/spr_coin_roj.png";
 const coin_green = new Image();
-coin_green.src = "assets/spr_coin_strip4.png";
+coin_green.src = "/mini-js-game/assets/spr_coin_strip4.png";
 const coin_yellow = new Image();
-coin_yellow.src = "assets/spr_coin_ama.png";
+coin_yellow.src = "/mini-js-game/assets/spr_coin_ama.png";
 //--------------------------------------------------------------------
 const canvas = document.getElementById("canvas1");
 //--------------------------------------------------------------------

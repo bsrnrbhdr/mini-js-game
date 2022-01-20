@@ -1,11 +1,11 @@
 import * as gameFunctions from "gamefunctions.js";
 
 const demon_idle = new Image();
-demon_idle.src = "assets/demon-Files/PNG/demon-idle.png";
+demon_idle.src = "/mini-js-game/assets/demon-Files/PNG/demon-idle.png";
 const demon_attack = new Image();
-demon_attack.src = "assets/demon-Files/PNG/demon-attack.png";
+demon_attack.src = "/mini-js-game/assets/demon-Files/PNG/demon-attack.png";
 const demon_dead = new Image();
-demon_dead.src = "assets/explosions-pack-web/spritesheets/explosion-4.png";
+demon_dead.src = "/mini-js-game/assets/explosions-pack-web/spritesheets/explosion-4.png";
 //--------------------------------------------------------------------
 const canvas = document.getElementById("canvas1");
 //--------------------------------------------------------------------
