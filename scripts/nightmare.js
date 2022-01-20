@@ -1,4 +1,4 @@
-import * as gameFunctions from "gamefunctions.js";
+import * as gameFunctions from "/gamefunctions.js";
 const nightmare = new Image();
 nightmare.src = "/mini-js-game/assets/Nightmare-Files/PNG/nightmare-galloping.png";
 const nightmare_dead = new Image();
