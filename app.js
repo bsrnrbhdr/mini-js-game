@@ -1,4 +1,4 @@
-import GameCanvas from "./scripts/gameCanvas.js";
+import GameCanvas from "/scripts/gameCanvas.js";
 var Game = new GameCanvas();
 //--------------------------------------------------------------------
 window.addEventListener("keydown", function (e) {
