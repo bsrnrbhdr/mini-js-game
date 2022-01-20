@@ -1,4 +1,4 @@
-import * as gameFunctions from "./gamefunctions.js";
+import * as gameFunctions from "gamefunctions.js";
 
 const demon_idle = new Image();
 demon_idle.src = "assets/demon-Files/PNG/demon-idle.png";

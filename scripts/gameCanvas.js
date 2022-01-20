@@ -1,8 +1,8 @@
-import Demon from "./demon.js";
-import Player from "./player.js";
-import Nightmare from "./nightmare.js";
-import { Color, Coin } from "./coins.js";
-import * as gameFunctions from "./gamefunctions.js";
+import Demon from "demon.js";
+import Player from "player.js";
+import Nightmare from "nightmare.js";
+import { Color, Coin } from "coins.js";
+import * as gameFunctions from "gamefunctions.js";
 //--------------------------------------------------------------------
 export default class gameCanvas {
   constructor() {
