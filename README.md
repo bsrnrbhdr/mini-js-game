@@ -8,4 +8,4 @@ https://ansimuz.itch.io/gothicvania-patreon-collection <br>
 https://9e0.itch.io/witches-pack <br>
 ![Untitled](https://user-images.githubusercontent.com/48088166/150149412-30d9286a-130b-42ce-a4a2-394e1dcfd218.png)
 
-You can play the game on https://bsrnrbhdr.github.io/minigame.html
+You can play the game on https://bsrnrbhdr.github.io/mini-js-game/
