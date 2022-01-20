@@ -1,4 +1,4 @@
-import * as gameFunctions from "/gamefunctions.js";
+import * as gameFunctions from "./gamefunctions.js";
 
 const coin_blue = new Image();
 coin_blue.src = "/mini-js-game/assets/spr_coin_azu.png";
